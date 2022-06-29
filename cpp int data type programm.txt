@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int student;
+    cout<< "hey student what is your name"<< endl;
+    cin>> student;
+    cout<< " and what is your collage name "<< endl;
+    cin >> student;
+    
+    return 0;
+}
+
+//https://github.com/praveenkumar9767//
